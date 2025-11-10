@@ -105,21 +105,6 @@ export function FAQSection() {
             </div>
           ))}
         </div>
-
-        <div className="mt-12 text-center">
-          <div className="bg-zinc-900 border border-[#D4AF37]/20 p-8 max-w-2xl mx-auto">
-            <p className="text-white text-lg mb-4">Tem outra pergunta?</p>
-            <p className="text-white/60 mb-6">
-              A nossa equipa está disponível para esclarecer todas as suas dúvidas sobre casinos online
-            </p>
-            <a
-              href="mailto:suporte@topsitescasinosportugal.com"
-              className="inline-block bg-[#D4AF37] text-black font-bold px-8 py-3 hover:bg-[#B8941F] transition-all shadow-lg"
-            >
-              Contactar Suporte
-            </a>
-          </div>
-        </div>
       </div>
     </section>
   )
